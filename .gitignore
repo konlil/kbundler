@@ -9,8 +9,7 @@
 *.plg
 *.user
 
-/bundler
-/bundler
+/bundler/vc*/
 
 # Compiled Object files
 *.slo
