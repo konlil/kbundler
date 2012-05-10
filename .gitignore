@@ -8,8 +8,10 @@
 *.ncb
 *.plg
 *.user
+*.suo
 
-/bundler/vc*/
+/bundler/vc*/debug
+/bundler/vc*/release
 
 # Compiled Object files
 *.slo
